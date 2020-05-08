@@ -54,3 +54,4 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'awesome_print'
 gem 'carrierwave'
+gem 'rails-i18n', '~> 6.0.0'
